@@ -3,3 +3,7 @@ Topic: Introduction to Github
 - Used the account "adriesp" as a base account to create the repo and the file
 - Created a new account named "adriespmit" for this test
 - Edited this file with account "adriespmit"
+------------------------------
+Assignment 2: Test Fork and Pull
+- Added this new comment in a fork
+- Pull request to adriesp
